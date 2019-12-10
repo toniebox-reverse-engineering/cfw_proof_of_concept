@@ -1,5 +1,5 @@
 # Custom Firmware - Proof of Concept
-Contains Energia sketches to interact with the various components. 
+Contains Energia sketches to interact with the various components. Board used in Energia is "CC3200-LAUNCHXL (80Mhz)
 
 ## LEDs
 There is a RGB LED on the board
