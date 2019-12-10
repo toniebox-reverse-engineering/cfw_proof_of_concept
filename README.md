@@ -9,3 +9,7 @@ TBD (Launchpad pinout doesn't have the pin)
 Signal has to pull the led low. But it currently only can pull it high.
 ### LED 3 - Green
 Working as expected
+
+## SD
+
+## MMA8452Q Accelerometer
