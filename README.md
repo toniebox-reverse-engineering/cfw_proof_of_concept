@@ -4,12 +4,24 @@ Contains Energia sketches to interact with the various components. Board used in
 ## LEDs
 There is a RGB LED on the board
 ### LED 1 - Red
-TBD (Launchpad pinout doesn't have the pin)
+TBD is this a pwm pin?
 ### LED 2 - Blue
-Signal has to pull the led low. But it currently only can pull it high.
+Works if power up pin is high
 ### LED 3 - Green
 Working as expected
 
 ## SD
+Started lib. Not working
 
-## MMA8452Q Accelerometer
+## DAC
+Started lib. Not working
+
+## RFID
+Not yet implemented
+
+## MMA8451Q Accelerometer
+POC
+I2C 0x1D
+
+## Wifi
+Works out of the box
