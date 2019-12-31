@@ -25,8 +25,10 @@ void loop() {
   Serial.println("LOOP");
   
   digitalWrite(LED_RED, HIGH);
+  analogWrite(LED_RED, 0xFF);
   delay(250);
   digitalWrite(LED_RED, LOW);
+  analogWrite(LED_RED, 0x00);
   delay(250);
   
   digitalWrite(LED_GREEN, HIGH);
