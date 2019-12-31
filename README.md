@@ -1,6 +1,12 @@
 # Custom Firmware - Proof of Concept
 Contains Energia sketches to interact with the various components. Board used in Energia is "CC3200-LAUNCHXL (80Mhz)
 
+## Buttons
+### Button 1 Ear
+Not working, muxed with Serial RX GPIO2
+### Button 2 Ear
+Working fine
+
 ## LEDs
 There is a RGB LED on the board
 ### LED 1 - Red
