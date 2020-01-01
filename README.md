@@ -3,7 +3,7 @@ Contains Energia sketches to interact with the various components. Board used in
 Pinout see [Wiki](https://github.com/toniebox-reverse-engineering/toniebox/wiki/Toniebox-CC3200-Pinout)
 
 ## Buttons
-### Button 1 right ear
+### Button 1 big ear
 Not working, muxed with Serial RX GPIO2
 ### Button 2 small ear 
 Working fine
