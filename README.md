@@ -18,7 +18,7 @@ Works if power up pin is high
 Working as expected
 
 ## SD
-Started lib. Not working
+Working as expected
 
 ## DAC
 Started lib. Not working
